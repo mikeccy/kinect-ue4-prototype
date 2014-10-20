@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FAC55C0E-436B-2FB6-46ED-BEA6E66032DF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Prototype1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
